@@ -54,7 +54,7 @@ Para rodar o projeto utilizando Docker, siga os passos abaixo:
 
 ```bash
 git clone https://github.com/lucasperoti/fiap_pos_tech_challenge1.git
-cd projeto_fiap
+cd fiap_pos_tech_challenge1
 ```
 
 ### 2. Configurar o Banco de Dados
